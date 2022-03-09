@@ -14,7 +14,15 @@ body {
     position: relative;
 }
 
+.content {
+    background-color: antiquewhite;
+}
 
+.content a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
 
 
 

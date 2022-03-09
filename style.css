@@ -19,6 +19,8 @@ body {
 .content {
     background-color: antiquewhite;
     display: none;
+    width: 76.77px;
+    position: absolute;
 }
 
 .content a {

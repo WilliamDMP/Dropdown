@@ -21,6 +21,7 @@ body {
     display: none;
     width: 76.77px;
     position: absolute;
+    box-shadow: 1px 1px 2px rgba(83, 84, 85, 0.507);
 }
 
 .content a {
@@ -37,6 +38,9 @@ body {
     background-color: rgba(146, 150, 153, 0.15);
 }
 
+.dropdown-btn:hover {
+    background-color: rgb(10, 134, 31);
+}
 
 
 
